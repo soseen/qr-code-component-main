@@ -46,7 +46,7 @@ img {
 h1 {
   color: var(--slate-900);
   font-size: 16px;
-  margin-top: 16px;
+  margin-top: 24px;
   margin-bottom: 16px;
   line-height: 1.1;
   font-weight: 700;
@@ -62,7 +62,7 @@ h2 {
 
 @media only screen and (min-width: 1280px) {
   .card {
-    max-width: 270px;
+    max-width: 290px;
   }
 
   .text-container {
@@ -71,10 +71,10 @@ h2 {
   }
 
   h1 {
-    font-size: 18px;
+    font-size: 20px;
   }
 
   h2 {
-    font-size: 14px;
+    font-size: 15px;
   }
 }
